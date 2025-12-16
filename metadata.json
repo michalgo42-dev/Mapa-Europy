@@ -1,0 +1,5 @@
+{
+  "name": "Mapa Europy",
+  "description": "Interaktywna aplikacja do nauki geografii Europy dla uczniów szkół podstawowych. Wykorzystuje mapy wektorowe oraz AI do generowania ciekawostek i zagadek.",
+  "requestFramePermissions": []
+}
